@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Material Theme Lighter",
+    "editor.lineHeight": 23,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.cursorStyle": "block",
+    "editor.roundedSelection": false,
+    "editor.multicursorModifier": "ctrl",
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "all",
+    "editor.dragAndDrop": false,
+    "terminal.external.windowsExec": "C:\\Program Files (x86)\\cmder\\Cmder",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "vscode-icons"
+}
