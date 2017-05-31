@@ -1,9 +1,10 @@
 <p align="center"><img src="images/header.jpg"/ ></p>
 
-## Before use this settings, you need install following extensions:
+## Before use this settings, you need to install following requirements:
 
 1. [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 2. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+3. [Fira Code (Font)](https://github.com/tonsky/FiraCode)
 
 ## Theme preview:
 
